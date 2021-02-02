@@ -16,4 +16,4 @@ while (True):                         # use while loop to print infinite pattern
         count = count+1
 
     elif count == (y+1):        # If count value is equal to (y+1) then initialize count to zero
-        count = 0               # Initialize counter to zero to print pattern in proper manner
+        count = 0               # Initialize counter to zero to print pattern in proper manner 
